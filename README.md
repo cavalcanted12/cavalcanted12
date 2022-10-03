@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhuancavalcantee/)
 
 ![cavalcanted12 GitHub stats](https://github-readme-stats.vercel.app/api?username=cavalcanted12&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcanted12's)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcanted12's)](https://github.com/cavalcanted12/)
 
 ## Tecnologias que uso no meu Dia-a-Dia
 
